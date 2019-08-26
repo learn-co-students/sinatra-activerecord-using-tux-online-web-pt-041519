@@ -1,3 +1,4 @@
+kim
 # Using Tux in Sinatra with ActiveRecord
 
 ## Overview
